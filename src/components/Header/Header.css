@@ -1,0 +1,46 @@
+.main{
+    background-image: url(../../assets/bg1.jpg) ;
+    background-size:100% 100%;
+    min-height: 80vh;
+}
+.header-btn{
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+    margin-top: 1%;
+    margin-bottom: 3%;
+}
+
+span{
+    margin: 10px;
+}
+.logo{
+    margin-top: 2%;
+    margin-bottom: 3%;
+    
+}
+h1{
+    color: white;
+}
+
+.menu-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}
+.navbar{
+    border-radius: 7px;
+}
+.descrp{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.btn-outline-primary {
+    color: #d8dfe7 !important;
+    border-color: #eff3f7 !important;
+}
+.sell-btn{
+    margin: 4%;
+}
